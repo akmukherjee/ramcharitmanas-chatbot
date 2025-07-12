@@ -1,0 +1,133 @@
+❯ uv run retrieval/retrieval.py
+Page Content: ¿ı0×¢     `æ´    ××    ˛ºÉ‚U  çÕSßæâæ — ´¢¿× Ö`Ù âô Õð˛ ´ý•⁄æâæH
+ÀU˘U  ˛×   âŁÜ  çÕÚUçÌ  ÕªØU • ÚU×æ — çÙÚUÌ çÙÚ¢UÌÚU âæÙ ˇÚU×æH 1H
+âæÌß¡   â×   ×ôçªU  ×Ø   `»  ˛ð„æ — ×ôÌð· â¢Ì ¥çˇ•⁄ •⁄çÚU Üð„æH
+¥æ˘Uß¡        `˝æÜæÖ â¢ÌôÆæ — â´ÙðªØ¡U Ù¤ªU ˛ð„§ ´ÚU˛ôÆæH 2H
+Ùß×    âÚUÜ    âÕ     âÙ ÀUÜªUŁÙæ — ×× ÖÚUôâ çªUØ¡ ªUÚUÆ Ù ˛ŁÙæH
+Ùß    ×ªØ¡U    °•⁄'U   ç`ª U •ð·⁄ ªUô§ü — ÙæçÚU ´ØL⁄Æ â¿ÚUæ¿ÚU •⁄ô§üH 3H
+âô§   ¥çÌâØ   ç´ýØ    Öæç×çÙ  ×ôÚð·U — â•⁄Ü ´ý•⁄æÚU Ö»çÌ ˛ºÉ‚U ÌôÚð·UH
+`ôç»   Õ¢º˛     ˛ØÚUÜÖ    »çÌ `ô§ü — Ìô •⁄ªØ¡U ¥æ`Ø âØÜÖ Ö§ âô§üH 4H
+××    ˛ÚUâÙ   ¨⁄Ü     ´ÚU× ¥ÙŒ´æ — `Łß ´æß çÙ` âªU` âM⁄´æH
+`Ù•⁄âØÌæ    •⁄§    âØçˇ Öæç×ÙŁ — `æÙçªU •⁄ªØU •⁄çÚUÕÚU»æç×ÙŁH 5H
+´¢´æ       âÚUçªU        `æªØU  ÚUæØÚUæ§ü — Ìª¡U ªUô§çªU âØ»ýŁß ç×Ìæ§üH
+âô    âÕ    •⁄çªUçªU    ˛ðß ÚUæØÕŁÚUæ — `æÙÌªŒ¡U ´ŒÀUªØU ×çÌˇŁÚUæH 6H
+ÕæÚU   ÕæÚU   ´ýÖØ   ´˛   çâL⁄ Ùæ§ü — ´ýð× âçªUÌ âÕ •⁄˝æ âØÙæ§üH 7H
+Cau.: ma¯tra   jpa   mama   d¾Rha bisvs, pa¯cama bhajana so beda praks.
+cha¢ha dama s¶la birati  bahu karam, nirata nira¯tara sajjana dharam.1.
+stava¡   sama mohi  maya  jaga dekh, mote¡ sa¯ta adhika kari lekh.
+¢hava¡          jathlbha sa¯toƒ, sapanehu¡  nahi ò  dekhai paradoƒ.2.
+navama sarala saba sana chalah¶n, mama bharosa hiya¡   haraƒa na d¶n.
+nava    mahu¡     ekau    jinha   ke¡ ho¶, nri puruƒa sacarcara ko¶.3.
+soi    atisaya    priya   bhmini more ¡, sakala prakra bhagati d¾Rha tore ¡.
+jogi     b¾¯da    duralabha    gati jo¶, to kahu ¡  ju sulabha bhai so¶.4.
+mama darasana phala  parama anµup, j¶va pva nija sahaja sarµup.
+janakasut     kai     sudhi bhmin¶, jnahi kahu karibaragmin¶.5.
+pa¯p      sarahi       jhu raghur¶, taha¡ hoihi sugr¶va mit¶.
+so    saba    kahihi    deva raghub¶r, jnatahµu¡  pµuchahu matidh¶r.6.
+bra   bra   prabhu   pada   siru n¶, prema sahita saba kath sun¶.7.
+Muttering My Name with unwavering faith constitutes the fifth form of adoration
+revealed in the Vedas. The sixth variety consists in the practice of self-control and virtue,
+desisting from manifold activities and ever pursuing the course of conduct prescribed for
+saints. He who practises the seventh type sees the world full of Me without distinction
+and reckons the saints as even greater than Myself. He who cultivates the eighth type
+of Devotion remains contented with whatever he gets and never thinks of detecting others
+faults. The ninth form of Devotion demands that one should be guileless and straight in
+ones dealings with everybody, and should in his heart cherish implicit faith in Me without
+either exultation or depression. Whoever possesses any one of these nine forms of
+Devotion, be he man or woman or any other creature sentient or insentient is most
+Page Content: {'page_number': 715.0, 'verse_type': 'Chaupai'}
+Page Content: """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+* ARA¡NYA-K¡NˇA * 669
+¿ı0æ×ü    Ìð·    çÕÚUçÌ    `ô»   Ìð· ØæÙæ— ØæÙ ×ôÀU´ý˛ Õð˛ Õ„æÙæH
+`æÌð·     Õðç»     …ýß'¡U     ×æ· Öæ§ü — âô ×× Ö»çÌ Ö»Ì âØ„˛æ§üH 1H
+âô     âØÌ¢     ¥ßÜ¢Õ     Ù ¥æÙæ— ÌðçªU ¥æˇŁÙ ØæÙ çÕØæÙæH
+Ö»çÌ   ÌæÌ    ¥ÙØ´×  âØ„×ŒÜæ — ç×Ü§ `ô â¢Ì ªUô§¡ ¥ÙØ•Œ⁄ÜæH 2H
+Ö»çÌ   ç•⁄   âæˇÙ    •⁄ªU'¡U Õ„æÙŁ — âØ»× ´¢˝ ×ôçªU ´æß¤ªU ´ýæÙŁH
+´ý˝×¤ªU    çÕ´ý   ¿ÚUÙ   ¥çÌ ´ýŁÌŁ — çÙ` çÙ` •⁄×ü çÙÚUÌ ØçÌ ÚUŁÌŁH 3H
+°çªU  •⁄ÚU   ¨⁄Ü   ´ØçÙ   çÕÆØ çÕÚUæ»æ — ÌÕ ×× ˇ×ü 'U´` ¥ÙØÚUæ»æH
+ßÙæç˛•⁄     Ùß    ÖçQ⁄ ˛ºÉ‚UæªUŁ· — ×× ÜŁÜæ ÚUçÌ ¥çÌ ×Ù ×æªUŁ·H 4H
+â¢Ì    ¿ÚUÙ     ´¢•⁄`   ¥çÌ ´ýð×æ — ×Ù •ý⁄× Õ¿Ù Ö`Ù ˛ºÉ‚U Ùð×æH
+»ØL⁄    ç´ÌØ    ×æÌØ   Õ¢ˇØ   ´çÌ ˛ðßæ — âÕ ×ôçªU •⁄ª¡U `æÙæ ˛ºÉ‚U âðßæH 5H
+××     »ØÙ     »æßÌ   ´ØÜ•⁄ âÚUŁÚUæ — »˛»˛ ç»ÚUæ ÙØÙ ÕªU ÙŁÚUæH
+•⁄æ×   ¥æç˛   ×˛   ˛¢Ö    Ù `æ•ð·⁄ — ÌæÌ çÙÚ¢UÌÚU Õâ ×æ· Ìæ•ð·⁄H 6H
+Cau.: dharma    te¡    birati   joga   te¡ gyn, gyna mocchaprada beda bakhn.
+jte¡       begi       dravau¡       maiò bh¶, so mama bhagati  bhagata sukhad¶.1.
+so     suta¯tra   avala¯ba   na n, tehi dh¶na gyna bigyn.
+bhagati    tta    anupama sukhamµul, milai jo sa¯ta hoi ò anukµul.2.
+bhagati  ki  sdhana  kahau¡ bakhn¶, sugama pa¯tha mohi pvahi ò prn¶.
+prathamahiò   bipra   carana   ati pr¶t¶, nija nija karma nirata Üruti r¶t¶.3.
+ehi  kara  phala  puni  biƒaya birg, taba mama dharma upaja anurg.
+Üravandika    nava   bhakti d¾Rhh¶¡, mama l¶l rati ati mana mh¶ ¡.4.
+sa¯ta   carana   pa¯kaja   ati prem, mana  krama  bacana  bhajana  d¾Rha nem.
+guru    pitu    mtu    ba¯dhu  pati dev, saba mohi kaha¡  jnai d¾Rha sev.5.
+mama   guna   gvata   pulaka sar¶r, gadagada gir nayana baha n¶r.
+kma   di   mada   da¯bha  na jke ¡, tta nira¯tara basa mai ò tke ¡.6.
+Dispassion results from the practice of virtue, while spiritual  wisdom comes of
+the practice of Yoga (concentration of mind); and wisdom is the bestower of liberation:
+so declare the Vedas. And that which melts My heart quickly, dear brother, is Devotion,
+which is the  delight of My devotees. It stands by itself and requires no other prop;
+whereas JÛna (knowledge of God  in His absolute formless aspect) and VijÛna
+(knowledge of the qualified aspect of God, both with and without form) depend on it.
+Devotion, dear brother, is incomparable and the very root of bliss; it can be acquired only
+by the favour of saint. I now proceed to tell you at some length the means of acquiring
+Devotion, an easy path by which men find Me. In the first place a man should cultivate
+excessive devotion to the feet of the Brhma˜as and secondly he should remain engaged
+in his own duty according to the lines laid down by the Vedas. This induces an aversion
+to the pleasures of sense and dispassion in its turn engenders a love for My Cult (the Cult
+of Devotion). This will bring steadfastness in the nine forms of Devotion
+* such as Ýrava˜a
+(hearing of the Lords praises etc.,) and the mind will develop an excessive fondness for
+My sports. Again, one should be extremely devoted to the lotus feet of saints and should
+be persistent in the practice of adoration through mind, speech and action. He should
+* The nine forms of Devotion as enumerated in Ýr¶mad Bhgavata are:
+Page Content: {'page_number': 686.0, 'verse_type': 'Chaupai'}
+Page Content: * UTTARA-K¡NˇA * 1085
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+pvana      parbata     beda purn, rma kath rucirkara nn.
+marm¶      sajjana      sumati kudr¶, gyna birga nayana uragr¶. 7 .
+bhva     sahita     khojai     jo prn¶, pva bhagati mani saba sukha khn¶.
+more¡    mana   prabhu   asa bisvs, rma te adhika rma kara ds. 8 .
+rma   si¯dhu   ghana   sajjana dh¶r, ca¯dana taru hari sa¯ta sam¶r.
+saba  kara  phala  hari  bhagati suh¶, so binu sa¯ta na khµu ¡  p¶. 9 .
+asa     bicri    joi    kara satasa¯g, rma bhagati tehi sulabha biha¯g .10.
+I have expounded at length the established doctrine relating to Gnosis; hear now the
+virtue of Devotion, which has been likened to a jewel. The beautiful wish-yielding gem of
+Devotion to Ýr¶ Rma is an embodiment of supreme effulgence, which sheds its radiance
+day and night, requiring neither a vessel nor clarified butter nor a wick (to light it). He in
+whose heart, O Garu˛a, such a jewel abides is not haunted by poverty in the shade of
+infatuation. No blast of greed can ever extinguish this light, which dispels the overpowering
+gloom of ignorance and the swarms of moths (in the shape of vanity etc.,) keep away from
+it in a mood of frustration. Nay, vicious propensities like lust dare not approach him in
+whose heart the gem of Devotion abides. For him venom is transformed into ambrosia and
+enemies turn into friends; nobody can attain happiness without this jewel. Again, he is
+never attacked by the terrible mental diseases from which all living beings are grievously
+suffering. He in whose heart the gem of Devotion to Ýr¶ Rma abides cannot have the least
+woe even in a dream. They alone are paragons of wisdom in this world; who spare no pains
+to secure this gem. Although this jewel is manifest in the world, none can find it without the
+grace of Ýr¶ Rma. There are easy devices for finding it, but luckless souls attempt harder
+methods. The Vedas and Pur˜as represent holy mountains; and the stories of Ýr¶ Rma,
+the many glorious mines located in their midst. The saints are the expert minerologists and
+their penetrating intellect, the pickaxe; while spiritual wisdom and dispassion, Garu˛a, are
+the two eyes (surveying the mines). Any creature who looks for it with faith succeeds in
+discovering the gem of Devotion, a mine of all blessings. I have this conviction in my heart,
+my lord, that a servant of Ýr¶ Rma is greater than Ýr¶ Rma Himself. While Ýr¶ Rma is
+the ocean, the wise saints are like the rain-clouds; or (to use another metaphor) while Ýr¶
+Hari is the sandal-tree, the saints represent the winds (that diffuse its perfume). Devotion
+to Ýr¶ Hari, which is so delightful, is the reward of all spiritual endeavours; none has ever
+secured it except through a saint. Realizing this whoever cultivates the fellowship of saints
+finds Devotion to Ýr¶ Rma easy of attainment, O king of the birds. (110)
+˛ô0 Õýræï ´ØôçÙçˇ ×¢˛ÚU ØæÙ â¢Ì âØÚU ¥æçª¢U—
+•⁄˝æ âØˇæ ×ç˝ •⁄æÉ‚Uçª¢U Ö»çÌ ×ˇØÚUÌæ `æçª¢UH 120 (•⁄)H
+çÕÚUçÌ ¿×ü ¥çâ ØæÙ ×˛ ÜôÖ ×ôªU çÚU´Ø ×æçÚU—
+`Ø ´æ§¥ âô ªUçÚU Ö»çÌ ˛ð„Ø „»ðâ çÕ¿æçÚUH 120 („)H
+Do.: brahma payonidhi ma¯dara gyna sa¯ta sura hi ò,
+kath sudh mathi kRhahi ò bhagati madhurat jhi ò.120(A).
+birati carma asi gyna mada lobha moha ripu mri,
+jaya pia so hari bhagati dekhu khagesa bicri.120(B).
+The Vedas are compared to the ocean (of milk); spiritual wisdom plays the role
+of Mount Mandara; while saints are the gods who churn out nectar in the form of the
+sacred legends; and Devotion represents its sweetness. Using Dispassion as a shield
+Page Content: {'page_number': 1102.0, 'verse_type': 'Doha'}
+Page Content: Dsya (offering devout service to the Lord),
+Page Content: {'page_number': 686.0, 'verse_type': 'Unknown'}
+ ~/C/uv/ramcharitmanas-chatbot  main ?12                                              ✔  3s  ramcharitmanas-chatbot   02:23:28 PM 

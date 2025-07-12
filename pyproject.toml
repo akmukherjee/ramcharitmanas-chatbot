@@ -1,0 +1,20 @@
+[project]
+name = "ramcharitmanas-chatbot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain>=0.3.26",
+    "langchain-community>=0.3.27",
+    "langchain-openai>=0.3.27",
+    "langchain-pinecone>=0.2.8",
+    "pinecone>=7.3.0",
+    "pdfminer>=20191125",
+    "pdfminer-six>=20250506",
+    "pypdf>=5.7.0",
+    "python-dotenv>=1.1.1",
+    "streamlit>=1.46.1",
+    "unstructured>=0.18.2",
+]
+
