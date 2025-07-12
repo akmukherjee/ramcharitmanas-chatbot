@@ -1,6 +1,6 @@
-# Ramcharitmanas Chatbot =I
+# Ramcharitmanas Chatbot
 
-A sophisticated chatbot application that answers questions about the Ramcharitmanas, the sacred Hindu epic written by Tulsidas. Built using modern AI technologies including LangChain, OpenAI, and Pinecone for intelligent document retrieval and response generation.
+A simple chatbot application that answers questions about the Ramcharitmanas, the sacred Hindu epic written by Tulsidas. Built using modern AI technologies including LangChain, OpenAI, and Pinecone for intelligent document retrieval and response generation.
 
 ## Features
 
@@ -22,8 +22,6 @@ cd ramcharitmanas-chatbot
 # Install dependencies
 uv sync
 
-# Set up environment variables
-cp .env.example .env
 # Edit .env with your API keys
 ```
 
